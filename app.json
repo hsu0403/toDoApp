@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "practice react-native",
+    "githubUrl": "https://github.com/hsu0403/toDoApp"
   }
 }
